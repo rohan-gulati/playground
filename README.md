@@ -1,1 +1,1 @@
-My experiments with code, and life.
+My experiments with code.
